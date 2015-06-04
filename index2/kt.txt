@@ -1,0 +1,4 @@
+Keys and tokens
+Client ID ?   gzbVVKHH6SwtJgDrvWTCA
+Client secret ?   QpkM7cCdBupeAltUL1b1FxLPjqhgSOgRC7jGbUvpIQ
+Expected redirect ?   http://209.208.28.38/index3/index.html
